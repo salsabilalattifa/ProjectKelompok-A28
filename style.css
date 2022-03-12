@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* font disesuaikan */
+
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+}
+
+a {
+    text-decoration: none;
+}
